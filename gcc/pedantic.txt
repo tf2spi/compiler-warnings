@@ -1,0 +1,14 @@
+-pedantic
+-Wno-implicit
+-Wshift-overflow=2
+-Wunused
+-Wuseless-cast
+-Wstring-compare
+-Wstrict-flex-arrays
+-Wpointer-arith
+-Wzero-length-bounds
+-Wenum-compare
+-Wenum-conversion
+-Wenum-int-mismatch
+-Wfloat-conversion
+-Wmissing-field-initializers
